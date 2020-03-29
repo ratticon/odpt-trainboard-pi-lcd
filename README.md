@@ -14,10 +14,10 @@ Benjamin Cooper 2020 (https://ratticon.com)
 - Raspberry Pi running Raspbian (Built on Pi Zero WH running Raspbian 10)
 - I2C LCD character display connected to Raspbery Pi GPIO pins:
 
-    Display SDA pin <------------> Pi SDA pin
-    Display SCL pin <------------> Pi SCL pin
-    Display 5V (VCC) pin <-------> Pi 5V pin
-    Display Ground (GND) pin <---> Pi GND pin
+        Display SDA pin <------------> Pi SDA pin
+        Display SCL pin <------------> Pi SCL pin
+        Display 5V (VCC) pin <-------> Pi 5V pin
+        Display Ground (GND) pin <---> Pi GND pin
 
 - Python 3 or later (3.7 at time of writing)
 - An internet connection
