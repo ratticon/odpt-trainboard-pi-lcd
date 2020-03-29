@@ -1,7 +1,6 @@
 # odpt-trainboard-pi-lcd
 
 Train Departure Board for Raspberry Pi with an I2C LCD attached using ODPT API
-Benjamin Cooper 2020 (https://ratticon.com)
 
 # Function
 - Connects to the Tokyo ODPT (Open Data for Public Transportation) API
@@ -22,8 +21,11 @@ Benjamin Cooper 2020 (https://ratticon.com)
 - Python 3 or later (3.7 at time of writing)
 - An internet connection
 - An ODPT API key from https://developer-tokyochallenge.odpt.org/en/info
-  Before running this script, export your API as an environment variable with the command:
-  export ODPT_API_KEY="PASTE_YOUR_KEY_HERE"
+
+# Important
+Before running this script, export your API as an environment variable with the command:
+
+    export ODPT_API_KEY="PASTE_YOUR_KEY_HERE"
 
 # More Info
 For more info on how to set up:
